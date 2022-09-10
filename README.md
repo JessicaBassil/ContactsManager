@@ -1,5 +1,5 @@
 # Contacts Manager App
-<br/>This is an App to manage contacts and groups
+<br/>This is an App to manage contacts and group them locally
 <br/>This app was build using java focusing mainly on the use of design patterns and unit testing
 
 # Class Diagram
