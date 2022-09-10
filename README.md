@@ -6,7 +6,7 @@
 Main<br/>
 [Main.pdf](https://github.com/JessicaBassil/ContactsManager/files/9541327/Main.pdf)
 <br/>
-![image](https://user-images.githubusercontent.com/79746196/189499775-6ee1c25f-e6cb-40d7-b1de-d123fd458d32.png | width=100)
+![image](https://user-images.githubusercontent.com/79746196/189499775-6ee1c25f-e6cb-40d7-b1de-d123fd458d32.png | height=50)
 <br/>
 
 MainFrame <br/>
