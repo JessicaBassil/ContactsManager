@@ -6,7 +6,7 @@
 Main<br/>
 [Main.pdf](https://github.com/JessicaBassil/ContactsManager/files/9541327/Main.pdf)
 <br/>
-<img src="[http://url.to/image.png](https://user-images.githubusercontent.com/79746196/189499775-6ee1c25f-e6cb-40d7-b1de-d123fd458d32.png)" align="left" height="48" width="48" >
+<img src="![image][http://url.to/image.png](https://user-images.githubusercontent.com/79746196/189499775-6ee1c25f-e6cb-40d7-b1de-d123fd458d32.png)" align="left" height="48" width="48" >
 ![image](https://user-images.githubusercontent.com/79746196/189499775-6ee1c25f-e6cb-40d7-b1de-d123fd458d32.png)
 <br/>
 
