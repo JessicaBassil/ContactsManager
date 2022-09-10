@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UpdateContactController
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UpdateContactController\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=UpdateContactController()
+comment2.params=model
+comment2.target=void\ setModel(Models.ContactModel)
+comment3.params=
+comment3.target=Models.ContactModel\ getModel()
+comment4.params=
+comment4.target=void\ addListeners()
+comment5.params=
+comment5.target=UpdateContactController\ getInstance()
+comment6.params=
+comment6.target=Views.UpdateContactView\ getView()
+numComments=7
