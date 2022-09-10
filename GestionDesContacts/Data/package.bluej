@@ -1,11 +1,11 @@
 #BlueJ package file
-dependency1.from=Globals
-dependency1.to=Data
+dependency1.from=GlobalsTest
+dependency1.to=Globals
 dependency1.type=UsesDependency
-dependency2.from=GlobalsTest
-dependency2.to=Globals
+dependency2.from=DataTest
+dependency2.to=Data
 dependency2.type=UsesDependency
-dependency3.from=DataTest
+dependency3.from=Globals
 dependency3.to=Data
 dependency3.type=UsesDependency
 objectbench.height=94
